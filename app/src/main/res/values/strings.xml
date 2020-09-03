@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetoListaCompras</string>
+    <array name="unidades">
+        <item>Kg</item>
+        <item>ml</item>
+        <item>gr</item>
+        <item>litros</item>
+        <item>unidades</item>
+    </array>
+</resources>
